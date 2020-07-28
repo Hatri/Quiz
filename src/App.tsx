@@ -57,5 +57,4 @@ const App = () => {
 export default App;
 
 
-////// 29:40 Continue
-///https://youtu.be/F2JCjVSZlG0?t=1780
+////// 38:27
